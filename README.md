@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./public/IGAC Logo OG NOBG.svg" alt="IGAC Logo" width="180" />
   <h1 style="font-family: serif; font-size: 2.5rem; margin-top: 1rem;">IGAC Human Resource Portal</h1>
-  <p><i>Internal Governance & Administration Council — Professional HR Management System</i></p>
+  <p><i>International Global Affairs Council — Professional HR Management System</i></p>
 
   <div style="display: flex; gap: 10px; justify-content: center; margin-top: 1rem;">
     <img src="https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js" alt="Next.js" />
@@ -15,7 +15,7 @@
 
 ## 🏛️ Project Overview
 
-The **IGAC HR Portal** is a high-performance, secure, and aesthetically premium internal management system designed for the **Internal Governance & Administration Council**. Built with the modern web stack, it prioritizes data integrity, role-based access control, and a seamless user experience.
+The **IGAC HR Portal** is a high-performance, secure, and aesthetically premium internal management system designed for the **International Global Affairs Council**. Built with the modern web stack, it prioritizes data integrity, role-based access control, and a seamless user experience.
 
 ### Key Features
 - **Secure Admin Onboarding**: Invitation-based system with manual magic links.
@@ -68,5 +68,5 @@ npm run dev
 <hr />
 
 <div align="center">
-  <p>© 2026 Internal Governance & Administration Council. All rights reserved.</p>
+  <p>© 2026 International Global Affairs Council. All rights reserved.</p>
 </div>

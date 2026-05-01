@@ -1,8 +1,8 @@
 # LICENSE
 
-Copyright (c) 2026 International Global Affaris Council (IGAC). All rights reserved.
+Copyright (c) 2026 International Global Affairs Council (IGAC). All rights reserved.
 
-This software and associated documentation files (the "Software") are the exclusive property of the International Global Affaris Council (IGAC).
+This software and associated documentation files (the "Software") are the exclusive property of the International Global Affairs Council (IGAC).
 
 **NO PERMISSION IS GRANTED** to any person or entity to:
 1. Use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
