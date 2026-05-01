@@ -4,6 +4,8 @@ import { user } from "@/lib/db/schema";
 import { auth } from "@/lib/auth";
 import { eq, sql } from "drizzle-orm";
 
+export const dynamic = "force-dynamic";
+
 // GET /api/admin/users — list all portal users (core_admin only)
 export async function GET(req: NextRequest) {
   const session = await auth.api.getSession({ headers: req.headers });

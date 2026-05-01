@@ -3,6 +3,8 @@ import { db } from "@/lib/db";
 import { invitation } from "@/lib/db/schema";
 import { auth } from "@/lib/auth";
 
+export const dynamic = "force-dynamic";
+
 export async function POST(req: NextRequest) {
   const session = await auth.api.getSession({ headers: req.headers });
   

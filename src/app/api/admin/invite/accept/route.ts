@@ -4,6 +4,8 @@ import { invitation, user } from "@/lib/db/schema";
 import { auth } from "@/lib/auth";
 import { eq, and } from "drizzle-orm";
 
+export const dynamic = "force-dynamic";
+
 export async function POST(req: NextRequest) {
   const { id, name, password } = await req.json();
 
